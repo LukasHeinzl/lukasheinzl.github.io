@@ -5,6 +5,6 @@
   </head>
   
   <body>
-    Test
+  <script>window.location = "https://www.lheinzl.com";</script>
   </body>
 </html>
